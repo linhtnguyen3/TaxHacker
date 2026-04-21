@@ -4,7 +4,7 @@
 
 <br>
 
-# TaxHacker: Self-Hosted AI Accounting.
+# TaxHacker: Self-Hosted AI Accounting..
 
 [![GitHub Stars](https://img.shields.io/github/stars/vas3k/TaxHacker?color=ffcb47&labelColor=black&style=flat-square)](https://github.com/vas3k/TaxHacker/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-ffcb47?labelColor=black&style=flat-square)](https://github.com/vas3k/TaxHacker/blob/main/LICENSE)
